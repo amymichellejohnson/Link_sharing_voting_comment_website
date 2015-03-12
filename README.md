@@ -27,12 +27,12 @@ KNOWN BUGS
 ---------
 No known bugs at this time.
 
-About
+ABOUT
 -----
 
 Written by Clem Freeman and Amy Johnson at [Epicodus](http://www.epicodus.com/).
 
-License
+LICENSE
 -------
 
 This projected is licensed under the terms of the MIT license.
