@@ -7,6 +7,8 @@ An [Angular.js](http://angularjs.org/) web app implementation of Hacker News. Wr
 
 The Hacky News app allows users to post a link to an article and for other users to comment on that link and upvote the link.
 
+View app here: http://amymichellejohnson.github.io/Link_sharing_voting_comment_website
+
 
 MOTIVATION
 ------------
